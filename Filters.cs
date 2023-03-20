@@ -48,8 +48,6 @@ namespace Oppgave_uke_2
             }
 
         }
-
-
         private static void FilterBy(string filterChoice)
         {
             Console.Clear();
